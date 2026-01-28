@@ -1,0 +1,41 @@
+# Core dependencies
+numpy==1.23.5
+tensorflow==2.9.0
+keras==2.9.0
+
+# Image processing
+opencv-python==4.8.0.74
+Pillow==9.5.0
+
+# Data science
+pandas==1.5.3
+scikit-learn==1.2.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter
+jupyter==1.0.0
+notebook==6.5.4
+ipykernel==6.23.1
+
+# Model conversion
+tf2onnx==1.14.0
+onnx==1.14.0
+onnxruntime==1.15.0
+
+# TFLite support
+tflite-support==0.4.4
+
+# Progress bars
+tqdm==4.65.0
+
+# Utilities
+pyyaml==6.0
+h5py==3.8.0
+
+# Development
+pytest==7.3.1
+black==23.3.0
+flake8==6.0.0
