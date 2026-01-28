@@ -163,7 +163,7 @@ See `docs/MAX78000_DEPLOYMENT.md` for detailed deployment instructions.
 
 1. **MobileNetV2**: [Paper](https://arxiv.org/abs/1801.04381)
 2. **MAX78000**: [Datasheet](https://www.analog.com/en/products/max78000.html)
-3. **Thermal Imaging for Breast Cancer**: [Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6316596/)
+3. **Thermal Imaging for Breast Cancer**: [Research](https://visual.ic.uff.br/dmi/))
 
 ## 🤝 Contributing
 
@@ -173,10 +173,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Furqan Ahmad**
-- GitHub: [@furqanahmad272](https://github.com/furqanahmad272)
 
 ## 🙏 Acknowledgments
 
